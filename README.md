@@ -1,2 +1,5 @@
 # hello-world
-just testing
+
+Hello, humans!
+THis is just me learning how to use GitHub.
+Cheers!
